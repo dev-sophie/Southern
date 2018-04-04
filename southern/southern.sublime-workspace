@@ -1,0 +1,436 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"c",
+				"color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4490,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "footer.php",
+			"settings":
+			{
+				"buffer_size": 195,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 4189,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/js/southern.js",
+			"settings":
+			{
+				"buffer_size": 1293,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 824.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/css",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/img",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/js",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/scss",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/inc"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/scss/bootstrap-custom.scss",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/index.html",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/header.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/inc/onepage-navwalker.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/functions.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/inc/custom-navwalker.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/vendor/jquery-easing/jquery.easing.min.js",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/footer.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/assets/js/southern.js",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/index.php",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/css/grayscale.css",
+		"/C/xampp/htdocs/tomcraissy/wp-content/themes/southern/style.css",
+		"/C/Users/me/Documents/Jobs/Schellberg/tomcraissy.de/index.html",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/assets/scss/bootstrap-custom.scss",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/header-home.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/front-page.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/style.css",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/functions.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/footer-home.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/header.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/assets/js/typewriter.js",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/assets/js/typist.js",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/custom-frontend-navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/custom-backend-navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/footer.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/assets/css/bootstrap-custom.css",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/wpml-config.xml",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/jafty-top-nav/menu-item-custom-fields/walker-nav-menu-edit.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/simplemenuicons/menuicons_navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/backend-navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/simplemenuicons/simplemenuicons.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/simplemenuicons_2/simplemenuicons_2.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/jafty-top-nav/jafty-top-nav.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/jafty-top-nav/jafty-custom-nav-fields.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/jafty-top-nav/menu-item-custom-fields/menu-item-custom-fields.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/custom-navwalker-1.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/custom-navwalker-2.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/sidebar.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/template-parts/post/content-featured.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/archive-template.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/simplemenuicons/custom_walker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/menuicons-navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/menuicons_navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/plugins/index.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/edit_custom_walker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/inc/custom_walker.php",
+		"/C/Users/me/AppData/Roaming/Sublime Text 3/Packages/User/SASS-Wordpress.sublime-build",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/README.md",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/.gitignore",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/assets/css/template.css",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/index.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/css/template.css",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/scss/style.scss",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/template-parts/content-image.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/template-parts/content-quote.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/template-parts/content-video.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/template-parts/content.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/LICENSE",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/screenshot.png",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/simpletheme/bootstrap-navwalker.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/template-parts/post/content.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyfifteen/author-bio.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyfifteen/content-link.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyfifteen/content-page.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyfifteen/footer.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyfifteen/header.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/header.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/footer.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/template-parts/header/header-image.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/template-parts/header/site-branding.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/front-page.php",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/style.css",
+		"/C/xampp/htdocs/sophie-senftleben/wp-content/themes/twentyseventeen/index.php"
+	],
+	"find":
+	{
+		"height": 82.0
+	},
+	"find_in_files":
+	{
+		"height": 288.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"easing"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								572,
+								572
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1931.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "footer.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 195,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3554,
+								3554
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1955.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/js/southern.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1293,
+								1293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 47.0
+	},
+	"input":
+	{
+		"height": 134.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/SASS-Wordpress.sublime-build",
+	"project": "southern.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 482.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
